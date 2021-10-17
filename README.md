@@ -16,3 +16,7 @@ Prevendo o tipo de droga a partir de algumas variaveis
   Na_to_K (Nível da dosagem)
   
   Drug (Target)
+  
+## Requisito do Projeto
+95% DE PRECISÃO NA PREVISÃO NO TIPO DE DROGA
+
