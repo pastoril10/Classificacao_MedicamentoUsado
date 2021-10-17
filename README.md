@@ -1,7 +1,15 @@
 # Predicao De Droga
 
-Prevendo o tipo de droga a partir de algumas variaveis
+Problema: Dados os parâmetros clínicos de um paciente, é possivel prever o tipo de droga que o mesmo deve usar.
 
+Fonte dos Dados: Arquivo CSV
+
+Etapas:
+
+Definição do Problema,
+Fontes dos dados,
+Coleta de Dados e
+Análise Exploratória dos Dados (EDA).
 
 ### Features:
 
@@ -17,6 +25,6 @@ Prevendo o tipo de droga a partir de algumas variaveis
   
   Drug (Target)
   
-## Requisito do Projeto
+### Requisito do Projeto
 95% DE PRECISÃO NA PREVISÃO NO TIPO DE DROGA
 
